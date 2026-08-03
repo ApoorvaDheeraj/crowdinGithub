@@ -8,5 +8,6 @@
   "SetAvatar": "Set Avatar",
   "UploadingAvatar": "Uploading...",
   "PasswordTitleText": "Password",
-  "InputAccountTitleText": "Please enter 11-digit phone number"
+  "InputAccountTitleText": "Please enter 11-digit phone number",
+  "AccountTitleText": "Phone number"
 }
