@@ -9,5 +9,5 @@
   "UploadingAvatar": "Uploading...",
   "PasswordTitleText": "Password",
   "InputAccountTitleText": "Please enter 11-digit phone number",
-  "AccountTitleText": "Phone number"
+  "GAME.LEAVE_ROOM.VIEWING_LIMIT_REACHED": "Table viewing limit has expired. Please try another table"
 }
