@@ -7,5 +7,6 @@
   "RegisterBtnText": "Register",
   "SetAvatar": "Set Avatar",
   "UploadingAvatar": "Uploading...",
-  "PasswordTitleText": "Password"
+  "PasswordTitleText": "Password",
+ "InputAccountTitleText": "Please enter 11-digit phone number"
 }
